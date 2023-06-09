@@ -1,3 +1,5 @@
+Для сохранения состояния в bundle при изменении конфигурации используется onSaveInstanceState.
+
 <img src="Screenshot_20230608_160431_com_example_android_dessertclicker.png" width=70%>
 
 DessertClicker - Code
